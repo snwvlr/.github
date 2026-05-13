@@ -281,10 +281,10 @@ Suite de imagem em lote: <b>Conversor Orbital</b> (WebP e formatos web), <b>Reco
 <br/>
 
 <a href="https://github.com/snwvlr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snwvlr&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFFFFF&icon_color=7B2CBF&text_color=B0B0B0&cache_seconds=1800" alt="stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snwvlr&theme=github_dark" alt="stats"/>
 </a>
 <a href="https://github.com/snwvlr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snwvlr&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFFFFF&text_color=B0B0B0&langs_count=8&cache_seconds=1800" alt="top langs"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snwvlr&theme=github_dark" alt="top-langs"/>
 </a>
 
 </div>
