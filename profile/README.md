@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3800&pause=1000&color=A0A0A0&center=true&vCenter=true&width=720&lines=Orlixys+%E2%80%94+Orbit+%26+Photon%2C+industrial+media+tooling.;Korppi+Mail+%E2%80%94+ephemeral+inboxes%2C+RAM-only.;Built+in+Python%2C+Rust%2C+C%2FC%2B%2B+%E2%80%94+privacy+by+design.;Stealth+mode%2C+by+default." alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3800&pause=1000&color=A0A0A0&center=true&vCenter=true&width=720&lines=Orlixys+%E2%80%94+Optimizer%2C+Orbit+%26+Photon+for+native+Windows.;Korppi+Mail+%E2%80%94+ephemeral+inboxes%2C+RAM-only.;Built+in+C%23%2C+Rust%2C+Python%2C+C%2FC%2B%2B+%E2%80%94+privacy+by+design.;Stealth+mode%2C+by+default." alt="typing"/>
 
 <br/>
 
@@ -118,13 +118,14 @@ Disposable email built on the opposite principle of every disposable email servi
 
 ## ◆ &nbsp; ORLIXYS
 
-<i>Industrial media tooling, proprietary.</i>
+<i>Native Windows tooling, built in stealth mode.</i>
 
 <br/>
 
 <p>
-Architecting the next generation of media tools under one umbrella. Two products in active development,<br/>
-sharing the same design philosophy: native performance, no telemetry, ship it as a desktop binary.
+A small portfolio of native Windows software under one umbrella, sharing the same design philosophy:<br/>
+<b>native performance</b>, <b>zero telemetry</b>, <b>no on-disk surprises</b>, ship as a single signed binary.<br/>
+One product is free and open-source; the others are proprietary and paid.
 </p>
 
 </div>
@@ -133,44 +134,78 @@ sharing the same design philosophy: native performance, no telemetry, ship it as
 
 <table width="100%" align="center">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/snwvlr/.github/main/assets/orbit-logo.svg" width="78" alt="orbit"/>
+<img src="https://raw.githubusercontent.com/snwvlr/.github/main/assets/orlixys-logo-branco.svg" width="68" alt="optimizer"/>
+
+### OPTIMIZER
+
+<img src="https://img.shields.io/badge/-Free-22C55E?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/-.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-WPF-512BD4?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-WebView2-512BD4?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=000000"/>
+
+<p align="center"><i>Windows optimization &amp; maintenance.</i></p>
+
+<p align="left">
+Cleanup, hardening, network tuning, startup management, restore points, dev-folder sweeper and per-second performance monitoring. <b>Always-on-demand admin elevation</b>, anonymous SHA-256 hardware ID, opt-in sensor monitoring. <b>Auto-update via Velopack</b>, single-file binary, x64.
+</p>
+
+<p align="center"><code>Cleanup</code> · <code>Hardening</code> · <code>Network</code> · <code>Monitoring</code> · <code>Tools</code></p>
+
+<a href="https://github.com/Orlixys/Orlixys-Optimizer-Releases">
+  <img src="https://img.shields.io/badge/Download-Releases-22C55E?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="releases"/>
+</a>
+
+<sub>.NET 9 · WPF · WebView2 · Vue 3 · SCSS</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/snwvlr/.github/main/assets/orbit-logo.svg" width="68" alt="orbit"/>
 
 ### ORBIT
 
+<img src="https://img.shields.io/badge/-Paid-7B2CBF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-Proprietary-7B2CBF?style=for-the-badge&labelColor=000000"/>
+<br/>
 <img src="https://img.shields.io/badge/-Rust-7B2CBF?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/-WebView2-7B2CBF?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=000000"/>
 
 <p align="center"><i>Download &amp; conversion engine.</i></p>
 
 <p align="left">
-Baixa vídeos, músicas e playlists em <b>4K</b> de qualquer fonte, e oferece um pipeline de conversão com controle profissional: <b>codec (H.264/AVC, AAC)</b>, <b>bitrate</b>, <b>resolução</b>, <b>CRF</b>, <b>taxa de quadros</b> e perfis de qualidade.
+Baixa vídeos, músicas e playlists em <b>4K</b> de qualquer fonte, com pipeline de conversão de nível profissional: <b>codec (H.264/AVC, AAC)</b>, <b>bitrate</b>, <b>resolução</b>, <b>CRF</b>, <b>FPS</b> e perfis de qualidade.
 </p>
 
 <p align="center"><code>Download</code> · <code>Conversor Orbital</code> · <code>Histórico</code></p>
 
-<sub>Building toward a native Rust + WebView2 binary.</sub>
+<sub>Native Rust + WebView2 binary.</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/snwvlr/.github/main/assets/photon-logo.svg" width="78" alt="photon"/>
+<img src="https://raw.githubusercontent.com/snwvlr/.github/main/assets/photon-logo.svg" width="68" alt="photon"/>
 
 ### PHOTON
 
+<img src="https://img.shields.io/badge/-Paid-E91E63?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-Proprietary-E91E63?style=for-the-badge&labelColor=000000"/>
+<br/>
 <img src="https://img.shields.io/badge/-Python-E91E63?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/-Flet-E91E63?style=for-the-badge&logoColor=white&labelColor=000000"/>
 
 <p align="center"><i>Image &amp; creative lab.</i></p>
 
 <p align="left">
-Suite de imagem em lote: <b>Conversor Orbital</b> (WebP e formatos web), <b>Recortar / AI Cutout</b> com modelo especializado em anime/mangá e modo HDR+, <b>Compressor Nebula</b> para otimização web, e <b>Estúdio / Lab Criativo</b> com watermark, AI Upscale e automation.
+Suite de imagem em lote: <b>Conversor Orbital</b> (WebP e formatos web), <b>Recortar / AI Cutout</b> com modelo anime/mangá e HDR+, <b>Compressor Nebula</b> para otimização web e <b>Estúdio / Lab Criativo</b> com watermark, AI Upscale e automation.
 </p>
 
 <p align="center"><code>Home</code> · <code>Converter</code> · <code>Recortar</code> · <code>Compressor</code> · <code>Estúdio</code></p>
 
-<sub>Currently Python + Flet · migrating to the Orbit stack.</sub>
+<sub>Python + Flet · migrating to the Orbit stack.</sub>
 
 </td>
 </tr>
@@ -184,7 +219,7 @@ Suite de imagem em lote: <b>Conversor Orbital</b> (WebP e formatos web), <b>Reco
   <img src="https://img.shields.io/badge/GitHub-Orlixys-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="github"/>
 </a>
 <img src="https://img.shields.io/badge/Role-Lead_Architect-7B2CBF?style=for-the-badge&labelColor=000000" alt="role"/>
-<img src="https://img.shields.io/badge/Repositories-Classified-E63946?style=for-the-badge&labelColor=000000" alt="classified"/>
+<img src="https://img.shields.io/badge/Commercial_Repos-Classified-E63946?style=for-the-badge&labelColor=000000" alt="classified"/>
 
 </div>
 
@@ -334,7 +369,7 @@ snwvlr@fiap:~$ systemctl status snwvlr.service
 ● snwvlr.service — building things that aren't supposed to leak
    Loaded: stealth (proprietary; vendor preset: paranoid)
    Active: online (running) since boot
-    Tasks: orlixys/orbit, orlixys/photon, korppi-mail, reverse-engineering
+    Tasks: orlixys/optimizer, orlixys/orbit, orlixys/photon, korppi-mail, reverse-engineering
    Contact: snwvlr@orlixys.com
    Memory: volatile — wipes on reboot, by design
 ```
